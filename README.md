@@ -86,12 +86,6 @@ The application depends on external service configuration and has not been indep
 
 ## Contributors
 
-Originally developed collaboratively by:
-
-- Jack Patterson — [PatterJLP](https://github.com/PatterJLP)
-- [pizzaninja188](https://github.com/pizzaninja188)
-- Rachit Bandaram — [rkb004](https://github.com/rkb004)
-
 Original repository: [PatterJLP/BadgerBuzz](https://github.com/PatterJLP/BadgerBuzz)
 
 This repository is a fork maintained under my personal GitHub profile to showcase the collaborative project.
